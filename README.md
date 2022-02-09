@@ -3,7 +3,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 <!--  -->
 <!-- You can include any other section that is pertinent to your problem -->
 
